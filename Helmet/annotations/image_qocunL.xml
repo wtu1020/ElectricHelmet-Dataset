@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_qocunL.jpg</filename>
+		<size>
+			<width>1440</width>
+			<height>1080</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>halt</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>551</xmin>
+				<ymin>212</ymin>
+				<xmax>672</xmax>
+				<ymax>354</ymax>
+			</bndbox>
+		</object>
+	</annotation>

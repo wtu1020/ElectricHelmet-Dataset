@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_QPAuny.jpg</filename>
+		<size>
+			<width>1920</width>
+			<height>2560</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>halt</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>885</xmin>
+				<ymin>524</ymin>
+				<xmax>1146</xmax>
+				<ymax>894</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_ytQqPa.jpg</filename>
+		<size>
+			<width>960</width>
+			<height>720</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>unhalt</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>332</xmin>
+				<ymin>174</ymin>
+				<xmax>415</xmax>
+				<ymax>263</ymax>
+			</bndbox>
+		</object>
+	</annotation>

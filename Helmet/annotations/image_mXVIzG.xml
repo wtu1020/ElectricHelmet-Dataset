@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_mXVIzG.jpg</filename>
+		<size>
+			<width>4284</width>
+			<height>5712</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>noear</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1882</xmin>
+				<ymin>586</ymin>
+				<xmax>2107</xmax>
+				<ymax>861</ymax>
+			</bndbox>
+		</object>
+	</annotation>

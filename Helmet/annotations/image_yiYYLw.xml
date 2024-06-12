@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_yiYYLw.jpg</filename>
+		<size>
+			<width>1440</width>
+			<height>1080</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>halt</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>381</xmin>
+				<ymin>266</ymin>
+				<xmax>534</xmax>
+				<ymax>461</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>G:\datasets\paperdatasets_0419\images\train</folder>
+		<filename>image_TaOjFt.jpg</filename>
+		<size>
+			<width>1440</width>
+			<height>1080</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>halt</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>611</xmin>
+				<ymin>679</ymin>
+				<xmax>750</xmax>
+				<ymax>854</ymax>
+			</bndbox>
+		</object>
+	</annotation>
